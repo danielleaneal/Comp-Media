@@ -1,0 +1,198 @@
+﻿Form #1 - Joke
+
+
+
+
+Knock, knock. Who's there? Someone's head or my mother’s. Someone’s head, somewhere. (Laughter.)
+
+
+* Interesting because the program somehow recognized the (laughter) element that could be standard in a joke format. 
+
+
+Why did the chicken cross the road? What was the cause for worry? These are all signs that her mind was
+made up of several things that she wanted to happen. And she needs to focus on strengthening
+her mind and body so that when she gets her period she will be better able to deal with the
+Situation.
+
+
+* I enjoyed the existentialism of this joke, and that somehow it poked fun at a fairly usual joke-y subject, periods haha.
+
+
+Form #2 - Commercial
+
+
+
+
+For a limited time only. If you like watching TV then you can ALL be wearing the King Power T-Shirt. Want to look like a fool to
+everyone? Don’t be a fool. 
+
+
+* I liked how the program somehow developed a product name based off of this prefix, “King Power T-Shirt.”
+
+
+For 3 payments of $99.99,  you get 3 days worth of vacation, a
+$1500 15 mile walking trial run and access to the internet for free. I
+am exaggerating. It really is that easy. just download the free trial and sign up for
+a trial account. Then, if you get the five day contract, you can continue on your
+trial and continue on your life as you wish, with or without an annual fee.”
+
+
+* The longer length I used with this sample helped to achieve that neverending sales talk that’s common in commercials. I also liked that it was both easy and difficult to get the 3 days worth of vacation. 
+
+
+
+
+
+
+
+
+
+
+
+
+Process, Form #1 - Joke
+
+
+Prefix: Why did the Chicken cross the road?
+
+
+Output Example #1 - longer length, standard 0.7 temperature.
+
+
+Why did the chicken cross the road? What was her reason? What was her attitude? What was her attitude when she felt she had no
+outside reason to feel the need to push the button? These are all lessons that she
+learned by having exercise, drinking beer and talking to people. After taking these
+problems and examining them often, she came to the conclusion that she was
+having a hard time controlling her actions. After looking into
+the eyes of the tyrant, and having a look that said 'You
+are an idiot! You’re so full of themselves!' she decided to
+take the opportunity to kill herself.
+
+
+Output Example #2 - shorter length and 0.8 temperature
+
+
+Why did the chicken cross the road? What was the cause for worry? These are all signs that her mind was
+made up of several things that she wanted to happen. And she needs to focus on strengthening
+her mind and body so that when she gets her period she will be better able to deal with the
+Situation.
+
+
+
+
+
+
+
+
+Prefix : Knock Knock, Who’s there? 
+
+
+Output Example #1 - temperature 0.8, length 250. Curated from the first “stanza” if you will from the 250 output.
+
+
+Knock Knock. Who's there? I
+Am In Love. I Know It. It’s Hot. And It GIVES ME A MOMENT OF DANCE.
+
+
+Output Example #2 - Changed length & temp.
+
+
+Knock, knock. Who's there? Someone's head or my mother’s. Someone’s head, somewhere. (Laughter.) 
+
+
+Prefix: Oh yeah? Well your momma’s so
+
+
+Output Example #1 - shorter length, higher temp
+
+
+Oh yeah? Well your momma's so         well organized that sometimes you have to get out of her sight box as she
+         clutches away whatever is small or cluttered around her in her life. It’s
+         okay if she doesn’t do it quickly enough. But she’s
+         going to get it done quickly enough that she doesn’t need the
+         Clutter.
+
+
+
+
+
+
+
+
+Commercial:
+
+
+Prefix - For a limited time only
+
+
+Output Example #1-
+
+
+           Spend less than what you make
+
+
+          Quit occupation: for one day at a time
+
+
+          Quit career: for 15 months
+
+
+I have asked myself many times what I really want out of life and so far my ideal
+picture of life balance involves:
+
+
+           My family life        •My time being evenly split between work/projects that are
+                creatively fulfilling and spending quality time with my child
+
+
+            My home and my own space and my own priorities
+
+
+            My car and my lifestyle
+
+
+            My dog and its owner
+
+
+            My job and its support groups
+
+
+           “Watching other people’s children’s’s children’s children’s
+
+
+
+
+
+
+Output Example #2 - higher temperature, curated from the first paragraph of a 250 length output.
+
+
+For a limited time only. If you like watching TV then you can ALL be wearing the King Power T-Shirt. Want to look like a fool to
+everyone? Don’t be a fool. 
+
+
+Output Example #3 - For a limited time only you can get your bottle opener. For the rest of us it will
+be a no brainer.
+Output Example #3 - (Changed temp & length) - 
+
+
+For a limited time only,     you can get a VERY good feeling for what your life will be like, by spending only
+
+
+        A few hours at a time, by spending time with my loved ones and
+        friends, and by spending time with myself.
+
+
+
+
+Prefix - For 3 payments of $99.99, 
+
+
+Output Example #1 - 
+
+
+For 3 payments of $99.99,  you get 3 days worth of vacation, a
+$1500 15 mile walking trial run and access to the internet for free. I
+am exaggerating. It really is that easy. just download the free trial and sign up for
+a trial account. Then, if you get the five day contract, you can continue on your
+trial and continue on your life as you wish, with or without an annual fee.”
